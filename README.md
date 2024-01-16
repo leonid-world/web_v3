@@ -22,4 +22,6 @@ web 3.0 연구노트
 일단, 거래소에서 일을 해보는 것.
 
  - 두나무 합격자 기술스택 공부하기
-
+ 두나무 경력 면접내용
+https://polynomeer.github.io/Recruit/Interview/dunamu_interview.html
+https://www.rocketpunch.com/@koansang
